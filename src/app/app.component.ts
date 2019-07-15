@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   <!-- header -->
   <app-header></app-header>
 
-  <!-- testing the home page -->
+  <!-- home page -->
   <app-home></app-home>
 
   <!-- routes will be rendered here -->
